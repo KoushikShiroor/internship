@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"div",
+				"divElement"
+			],
+			[
+				"di",
+				"divElement"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"new",
+				"newArrNum"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"border-bott",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"bord",
+				"border-right\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-variant\tproperty"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"daa",
+				"datalist\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"e",
+				"enter"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/koushik/Desktop/Project/file1.html",
+			"settings":
+			{
+				"buffer_size": 61222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/koushik/Desktop/Project"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/internship/file3.html",
+		"/C/xampp/htdocs/internship/conn.php",
+		"/C/xampp/htdocs/internship/insert.php",
+		"/C/xampp/htdocs/internship/file2.html",
+		"/C/xampp/htdocs/internship/file1.html",
+		"/C/xampp/htdocs/internship/test.html",
+		"/C/Users/koushik/Desktop/WebDevelopment/file24.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id=\"name\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/koushik/Desktop/Project/file1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "file3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
